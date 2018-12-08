@@ -36,3 +36,4 @@ service0:
     ReadTimeout: 1000
     ConnectTimeout: 500
     MaxAutoRetries: 1  # SR6版本,这里设为1,会重试3次,重试次数还和另外的两个值有关
+foo: fooversion2
